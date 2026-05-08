@@ -4,3 +4,4 @@
 *.png
 turing_data_analysis_mcq_notebook.py
 guidelines.md
+.claude/
